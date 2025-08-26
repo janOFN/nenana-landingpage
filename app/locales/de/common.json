@@ -52,12 +52,12 @@
 				"termsAccepted": "Ich akzeptiere die Nutzungsbedingungen: Mit dem Absenden dieses Formulars erkläre ich mich damit einverstanden, dass Ne'Na'Na mich kontaktiert, um mich willkommen zu heissen und mir Informationen zum weiteren Vorgehen zu geben (Registrierung auf der Open Food Network Plattform, Zugang zum Hub-Standort usw.)."
 			}
 		},
-		"title": "Ne'Na'Na Box / Open Food Network Hub Account Registrierung"
+		"title": "Ne'Na'Na Box Registrierung"
 	},
 	"registerStart": {
 		"actions": {
 			"continue": "Ohne Registrierung fortfahren",
-			"continueLegend": "Für bestehende Kunden mit OFN Account",
+			"continueLegend": "Für bestehende Kunden mit Open Food Network Account",
 			"register": "Registrieren",
 			"registerLegend": "Für neue Kunden"
 		},
@@ -84,7 +84,7 @@
 			"title": "Ne'Na'Na"
 		},
 		"register": {
-			"description": "Registrieren Sie sich für ein Ne'Na'Na-Konto, um direkt über diese Website auf einen OFN-Shop zuzugreifen.",
+			"description": "Registrieren Sie sich für ein Ne'Na'Na-Konto, um direkt über diese Website auf einen OFN Hub zuzugreifen.",
 			"title": "Ne'Na'Na - Registration"
 		}
 	},
